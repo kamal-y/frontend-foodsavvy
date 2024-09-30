@@ -1,7 +1,9 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
+    background: url('https://assets.isu.pub/document-structure/230511112917-e040a8400c387d994117a6cce41f4026/v1/166106a522f96470ae15f8cf6957fd55.jpeg') no-repeat;
+  background-size: cover;  /* This makes the background image cover the entire div */
+ 
     background-size:contain;
     position: relative;
 }
